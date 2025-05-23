@@ -70,6 +70,7 @@ src/
 ├── Bias/
 │ ├── hiddenLayer1.csv
 │ └── outputLayer.csv
+├── DrawPanel28x28.java // GUI class even idk how it works 
 ├── InputLayer.java
 ├── HiddenLayer.java
 ├── OutputLayer.java
